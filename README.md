@@ -1,4 +1,4 @@
-# Olá! Eu sou João Paulo 👋
+<h1>Olá! Eu sou João Paulo 👋</h1>
 
 <div>
   <a href="https://www.youtube.com/@devjoaopaulo" target="_blank"><img src="https://img.shields.io/badge/João Paulo | Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -6,9 +6,9 @@
 
 <h2>👨‍💻 About me</h2>
 
-- 👨‍💻 Sou desenvolvedor front-end, apaixonado pelas melhores tecnologias de desenvolvimento web. Tenho experiência com projetos utilizando tecnologias com HTML, CSS, JavaScript E TypeScript.
-- 💗 Conforme fui adquirindo experiência na área, descobri que poderia compartilhar meus conhecimentos, e ajudar as pessoas por meio deles. Desde então, crio conteúdo para o YouTube.
-- 🚀 Atualmente tenho me dedicado em aprender novas tecnologias para melhoras minhas habilidades na programação.
+- 👨‍💻 Sou desenvolvedor front-end, apaixonado pelas melhores tecnologias de desenvolvimento web. Tenho experiência com projetos utilizando tecnologias com HTML, CSS, JavaScript e TypeScript.
+- ❤ Conforme fui adquirindo experiência na área, descobri que poderia compartilhar meus conhecimentos, e ajudar as pessoas por meio deles. Desde então, crio conteúdo para o YouTube.
+- 🚀 Atualmente tenho me dedicado em aprender novas tecnologias para melhorar minhas habilidades na programação.
 
 <h2>💻 Habilidades Principais:</h2> 
 
@@ -29,6 +29,5 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaopaulo-io&show_icons=true&theme=dracula" alt="João Paulo's GitHub"/>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo-io&show_icons=true&theme=dracula" alt=""/> 
 </div>
-
 
 
