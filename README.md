@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 About me</h2>
 
-- 👨‍💻 Sou desenvolvedor front-end, apaixonado pelas melhores tecnologias de desenvolvimento web. Tenho experiência com projetos utilizando tecnologias com HTML, CSS, JavaScript e TypeScript.
+- 👨‍💻 Sou desenvolvedor front-end, apaixonado pelas melhores tecnologias de desenvolvimento web. Tenho experiência com projetos utilizando tecnologias como HTML, CSS, JavaScript e TypeScript.
 - ❤ Conforme fui adquirindo experiência na área, descobri que poderia compartilhar meus conhecimentos, e ajudar as pessoas por meio deles. Desde então, crio conteúdo para o YouTube.
 - 🚀 Atualmente tenho me dedicado em aprender novas tecnologias para melhorar minhas habilidades na programação.
 
