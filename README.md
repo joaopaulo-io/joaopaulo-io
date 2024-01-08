@@ -14,8 +14,9 @@
 
 ![HTMl](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007acc)&nbsp;
 
 <h2>⚙️ Ferramentas:</h2>
 
