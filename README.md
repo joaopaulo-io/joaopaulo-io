@@ -12,7 +12,7 @@
 
 <h2>💻 Habilidades Principais:</h2> 
 
-![HTMl](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -27,11 +27,10 @@
 <h2>🚀 Um pouco mais sobre o meu perfil</h2>
 
 <div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaopaulo-io&show_icons=true&theme=dracula" alt="João Paulo's GitHub"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo-io&show_icons=true&theme=dracula" alt=""/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaopaulo-io&show_icons=true&text_color=c9d1d9&bg_color=0d1117" alt="João Paulo's GitHub"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo-io&show_icons=true&text_color=c9d1d9&bg_color=0d1117" alt=""/> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
 
